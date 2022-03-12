@@ -1,16 +1,12 @@
 #!/bin/bash
-# Autor: Robson Vaamonde
-# Site: www.procedimentosemti.com.br
-# Facebook: facebook.com/ProcedimentosEmTI
-# Facebook: facebook.com/BoraParaPratica
-# YouTube: youtube.com/BoraParaPratica
-# Linkedin: https://www.linkedin.com/in/robson-vaamonde-0b029028/
-# Instagram: https://www.instagram.com/procedimentoem/?hl=pt-br
-# Github: https://github.com/vaamonde
-# Data de criação: 13/10/2021
-# Data de atualização: 13/02/2022
-# Versão: 0.15
-# Testado e homologado para a versão do Ubuntu Server 20.04.x LTS x64x
+# Autor:						Jensy Gregorio Gomez
+# YouTube:						youtube.com/systech
+# Instagram:					https://www.instagram.com/systech5/?hl=pt-br
+# Github:						https://github.com/vaasystech-brz
+# Data de criação:				01/01/2022
+# Data de atualização:			01/01/2022
+# Versão:						0.01
+# Testado e homologado para a versão do Ubuntu Server 20.04.x LTS x64
 # Testado e homologado para a versão do Apache2 v2.4.x, MySQL v8.0.x, PHP v7.4.x, 
 # Perl v5.30.x, Python v2.x e v3.x, PhpMyAdmin v4.9.x
 #
